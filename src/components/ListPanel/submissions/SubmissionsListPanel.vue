@@ -222,6 +222,7 @@ export default {
 						'assignedTo',
 						'issueIds',
 						'sectionIds',
+						'categoryIds',
 						'assignedTo'
 					].includes(param)
 				) {
